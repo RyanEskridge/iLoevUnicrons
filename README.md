@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iLoevUnicrons
 - 👀 I’m interested in mechanics
-- 🌱 I’m currently learning python3
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything easy.
 - 📫 How to reach me: ig @ryanisdumb 
 
